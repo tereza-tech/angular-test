@@ -1,0 +1,68 @@
+/*.cbd {
+    display: inline-block;
+}
+
+.bd-2 {
+    width: 69%;
+}
+
+.bd-1 {
+    width: 28%;
+    margin-right: 1%;
+}
+
+.cbd img {
+    width: 100%;
+}
+
+.inl {
+    display: inline-flex;
+}
+
+.inl.col-7 {
+    position: relative;
+    top: -18px;
+}
+
+.col-5.position-relative {
+    min-width: 400px!important;
+}
+
+.leader-projector {
+    width: auto;
+    bottom: 17px;
+    left: 0;
+    z-index: -9999;
+    height: 16%;
+}*/
+
+
+
+
+<!--div class="container-fluid position-relative p-0">
+    <div class="fw-bold">
+        <h1> Header </h1>
+        <div>Text</div>
+    </div>
+    <img class="intro-banner" src="/assets/leader-proj.webp">
+</div-->
+<!--div class="position-relative">
+<div class="container-fluid pt-5 pb-5 ps-5">
+  <div class="row">
+    <div class="col-5 position-relative min-inl">
+      <h1 class="inl col-5 fw-bold">Nejvyšší<br>kvalita</h1>
+      <p class="inl col-7 ps-4">
+        Naše sužby zakládáme na nejvyšší kvalitě, dlouholeté zkušenosti, nejnovějších trendech celosvětově renomovaných špiček v audio-video technologiích, partnerství a dobrých vztazích s partnery i zákazníky.
+      </p>
+    </div>
+    <div class="inl col-7 pt-4">
+      <div class="cbd bd-1">
+        <img class="intro-banner" src="/assets/leader-cabel.webp">
+      </div>
+        <div class="cbd bd-2">
+          <img class="intro-banner" src="/assets/leader-project.webp">
+      </div>
+    </div>
+    <img class="show-case position-absolute leader-projector" src="/assets/leader-proj.webp">
+  </div>
+</div-->
